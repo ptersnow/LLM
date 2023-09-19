@@ -7,7 +7,7 @@ The backend of this project was developed with Python3 (Flask and Pytorch), and 
 
 ### Javascript
 
-To get frontend runing, [https://nodejs.org/en/download/](Node.js) is necessary. With it installed, install the requirements by doing:
+To get frontend runing, (https://nodejs.org/en/download/)[Node.js] is necessary. With it installed, install the requirements by doing:
 
 ```bash
 cd web/
@@ -37,4 +37,4 @@ git clone https://github.com/ptersnow/LLM.git
 cd LLM
 ```
 
-For the tests used in [https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/](freeCodeCamp), the vocab and the train and val splits can be downloaded from [https://drive.google.com/drive/folders/1RVAl1noMLkw1TJ9h2777VKLOxNNoGvcC?usp=drive_link](here).
+For the tests used in (https://www.freecodecamp.org/news/how-to-build-a-large-language-model-from-scratch-using-python/)[freeCodeCamp], the vocab and the train and val splits can be downloaded from (https://drive.google.com/drive/folders/1RVAl1noMLkw1TJ9h2777VKLOxNNoGvcC?usp=drive_link)[here].
