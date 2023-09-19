@@ -1,0 +1,135 @@
+Quando temos um projeto onde a rubrica é de "Grupo Teatral", que possui mais de 1 ator em cena, como podemos nos basear?? 3mil por integrante??
+Mas na hora da prestação de conta a nota deverá ser de Grupo teatral com 3 atores, por exemplo???
+informa-se que o limite por apresentação é por pessoa, portanto, caso seja um grupo com três pessoas cada uma poderá receber até R$ 3.000,00 por apresentação (Art. 17, inciso I) ou até R$ 3.500,00 para músicos (Art. 17, inciso II).
+
+Podemos realizar a contratação da mesma baseada no menor preço de três orçamentos (como previsto em contrato com o incentivador BNDES) e não por fruto de processos de concurso, conforme IN ?
+“INFORMAÇÕES RELACIONADAS A PROPOSTAS QUE CONTEMPLEM ELABORADAS FORA DE PROJETOS DE RESTAURO (ARQUITETURA E COMPLEMENTARES DE ENGENHARIA), PARA BENS CULTURAIS MATERIAIS TOMBADOS PELOS PODERES PUÌBLICOS, FEDERAL, ESTADUAL, MUNICIPAL OU DISTRITAL” (grifo nosso).
+Visto isso, entende-se que os três orçamentos seriam suficientes.
+
+Pode ter duas notas fiscais e duas transferências no mesmo valor na prestação de contas, que somadas dariam o valor da rubrica do serviço.
+a questão de quantidade de notas fica a critério do proponente e/ou da contabilidade do projeto, pois não há regra específica.
+Contudo, salienta-se que as notas e pagamentos devem sempre estar dentro do período de execução; e que se houver extrapolação do valor estabelecido para a rubrica e for acima do limite da IN, será necessário solicitar readequação da planilha orçamentária aprovada.
+
+Um estabelecimento irá emitir a nota fiscal de um serviço prestado, contudo a conta bancária do estabelecimento está em nome da pessoa física proprietária do estabelecimento. Podemos fazer a transação de pagamento nesta situação sem termos problema junto ao ministério no momento da prestação de contas? Eles emitirão uma declaração.
+
+Precisamos contratar um serviço prestado por uma empresa do exterior. Desta forma, além do valor da Invoice (fatura), teremos que pagar os impostos e tarifas dessa transação (IR, CIDE; PIS, COFINS, ISS, IOF e tarifa bancária do contrato de câmbio).
+a forma de pagamento e de comprovação estão corretas. Além da despesa em si, os impostos também poderão ser alocados no item orçamentário correspondente ao serviço prestado. Ademais, salienta-se que além da invoice original e traduzida será necessário apresentar o contrato de câmbio e os respectivos encargos.
+
+Como pode ser feito o pagamento da alimentação? Podemos pedir um recibo simples a cada artista das diárias de alimentação? Podemos fazer uma transferência para a a conta de cada artista brasileiro e pagar em dinheiro aos artistas internacionais (pois eles  não  tem conta aqui)?
+informa-se que os valores inerentes à rubrica “refeição” poderão ser transferidos aos membros da equipe por meio de transferência bancária. Contudo, os valores gastos por pessoa deverão ser comprovados por meio de nota fiscal (no caso de restaurante) ou cupom fiscal (no caso de mercado) quando da prestação de contas.
+Para um pagamento por RPA:
+O Valor a ser lançado no sistema para comprovação financeira é o valor Bruto ou Liquído da RPA?
+Para pagamento de um artista, por RPA, terá que ser uma RPA para cada dia ou cidade?
+É necessário lançar o valor da RPA de acordo com o valor correspondente do extrato. E o n° de pagamento correspondente deve ser o mesmo do extrato do Salic. Por exemplo: pagou-se um fornecedor do item “Ator” no valor líquido de R$ 900,00 sob o n° de pagamento 1234. Então será necessário a RPA no item “Ator” nesse valor e com esse número de pagamento. Para essa mesma RPA teve um valor de INSS no valor de R$ 50,00, e o pagamento foi feito com a transação de n° 5432. Então será necessário lançar esse INSS na rubrica de “INSS” com esse valor e com esse n° de pagamento.
+Devido a distância entre as escolas e o valor que consta no orçamento seria mais viável que os consultores realizassem a recarga no cartão transporte coletivo e após nos encaminhassem o comprovante para solicitação de reembolso ao proponente. Isso é aceito pelo ministério para prestação de contas financeira?
+É possível realizar o pagamento do transporte por meio de recarga de cartão transporte. O reembolso ao proponente deverá ocorrer mediante emissão de recibo simples ou uma nota de débito, especificando tratar de reembolso, discriminar as despesas, rubricas e valores que foram pagos e justificar.
+Para despesas de Locação de equipamentos de som, é possível apresentação de Recibo, já que em nosso município temos Lei de isenção de emissão de NF para locação de equipamentos???
+para locação de equipamentos de som de fato não será necessária a emissão de nota fiscal, porém é imprescindível a apresentação do contrato de locação.
+
+A empresa está cadastrada com CNPJ do Rio de Janeiro no projeto, mas tem FILIAL em São Paulo, os prestadores de serviço podem emitir nota para o projeto contra a FILIAL em SP
+Em atendimento ao questionado informa-se que O CNPJ que deve estar na nota é o da proponente, e não da filial. Se ocorrem de serem diferentes a despesa será impugnada.
+Sobre estar cadastrado na cidade onde projeto está sendo executado desconheço essa regra. O fornecedor pode ser de um estado e emitir para um cnpj de outro estado.
+
+• Sobre emissão de nota para captação de recursos, tenho dúvida quanto ao prestador de serviço.
+• Basta estar escrito sobre esse item no Contrato Social? Ou precisa um CNAE específico? Neste caso, qual o CNAE
+É preciso contratar empresa para realização de contratação contanto que haja previsão no orçamento aprovado e de acordo com os termos do §1º do art. 12 da Instrução Normativa nº 1 de fevereiro de 2022, ou seja, a empresa contratada deve ter CNAE específico.
+
+4.17 Pagamento de UBER
+
+É possível utilizar aplicativos de transporte com recursos do projeto. O pagamento poderá ser feito pelo proponente e, posteriormente, solicitar reembolso. Como comprovante poderá ser apresentado o recibo emitido pelo aplicativo. Salienta-se que deverá apresentar também a relação dos beneficiários do transporte e suas funções no projeto.
+A instituição proponente tem em seu quadro de pessoal alguns colaborados que tem atividades no projeto, é possível remunera-los via folha de pagamento?  Se sim, existe alguma observação quanto esta forma de remuneração e informações que tem que constar no contracheque? Ex: temos em nosso quadro uma ?professora? que será a interprete de Libras, é possível remunerarmos ela pela atividade no projeto em sua folha de pagamento? O produtor que atuará na etapa de Produção e execução também tem vinculo empregatício com o proponente, é possível remunerá-lo via folha de pagamento?
+A remuneração via folha de pagamento é possível caso os celetistas tenham sido contratados exclusivamente para o projeto. Assim, a comprovação deve ocorrer com o envio dos contratos de trabalho, contracheques assinados e comprovante de pagamento (transferência, pix).
+É necessário fazer orçamentos para todas as contratações via projeto, tanto para contratação de serviços como para aquisição de materiais ou apenas para aquisição de materiais?
+Os orçamentos (cotações prévias) são obrigatórios no caso de aquisição de material permanente (bens de capital), obras de artes, adquiridas ou produzidas.
+Na planilha do projeto tenho previsto o pagamento de 2 Bailarinos com valor unitário de 2.500 cada. Se realizar a apresentação com apenas 1 posso pagar 5.000,00 para ele?
+Se há a previsão de dois, mas pretende contratar apenas um, sugere-se encaminhar pedido de readequação, uma vez pagar o dobro do previsto para apenas um profissional pode ser interpretado como extrapolação do valor da rubrica, ainda que ele tenha feito o mesmo número de apresentações previstas.
+Vamos fazer um vídeo reunindo imagens de todas as apresentações o qual será utilizado tanto para a comprovação da execução do projeto como para divulgação do mesmo em datas posteriores. É possível pagar o custo deste vídeo com recursos da rubrica de divulgação?
+Entende-se que a divulgação tem como propósito dar publicidade prévia aos produtos culturais e, dessa forma, ampliar a repercussão social do projeto. Um vídeo que registra o evento não cumpre esse propósito. Portanto, só deve ser executado se houver rubrica própria para sua realização. Assim sendo, caso não haja previsão, a proponente pode encaminhar pedido de remanejamento para incluir o item na etapa de produção.
+
+Temos uma demanda de emissão de NF de CNAE de apresentações artísticas em outras cidades, onde o ISS é devido nas cidades e excução. Neste caso, como temos um valor total do ítem previsto, podemos emitir a Guia do ISS na cidade e pagar separadamente descontando o valor na nota do ítem, correto? Emitiremos 2 pgtos.
+salienta-se que, quando da prestação de contas, deverá ser gerado um único arquivo constando os seguintes documentos: nota fiscal, comprovante de pagamento da nota fiscal, guia de recolhimento do ISS e Comprovante de pagamento da guia de recolhimento do ISS. Ademais, sugere-se que seja descrito na justificativa o vínculo entre os referidos pagamentos.
+
+Em relação se há uma limitação de emissão de notas e valores para serviços prestados pela proponente para o projeto.
+
+Que a questão de quantidade de notas fica a critério do proponente e/ou da contabilidade do projeto, pois não há regra específica.
+Contudo, salienta-se que as notas e pagamentos devem sempre estar dentro do período de execução; e que se houver extrapolação do valor estabelecido para a rubrica e for acima do limite da IN, será necessário solicitar readequação da planilha orçamentária aprovada.
+Na rubrica "diárias com hospedagem" , é possível contemplar a equipe em viagem (músicos e produção) com alimentação, com transferência de recursos via Recibo nominal?
+Como a rubrica está descrita como Diárias, que contempla hospedagem e alimentação, conforme descrição no campo justificativa, a comprovação pode ser feita por meio de recibo simples, emitido pelo beneficiário, acompanhado de comprovante de pagamento (transferência, pix). O recibo é importante porque é por meio dele que verificamos se o item orçamentário está previsto na planilha aprovada.
+
+Verificamos que é possível o proponente receber o valor referente à captação de recursos, caso ele mesmo tenha captado. Nesse caso é necessária a emissão de nota fiscal, uma vez que o proponente geralmente não tem o CNAE de captador na sua NF?
+No caso de o próprio proponente executar a captação de recursos, não há regra específica que exija que este tenha o CNAE específico. Porém, cabe lembrar que o proponente poderá ser remunerado desde que preste serviço ao projeto previsto no orçamento e desde que o valor desta remuneração, ainda que por diversos serviços, respeite os limites estabelecidos pela IN sob a qual o projeto foi aprovado.
+No que diz respeito à emissão de nota fiscal em favor de fornecedor contratado para realização de captação de recursos, informa-se que a INSTRUÇÃO NORMATIVA MINC Nº 2/2019, a qual rege o projeto em questão, não traz obrigatoriedade com relação à especificidade quanto CNAE da empresa, porém recomenda-se que esteja minimamente relacionado à cultura e/ou projeto e/ou a serviço de captação.
+
+Temos uma atriz que atuará no projeto que é de ão.
+, o pagamento pode ser feito ao responsável com anexação de uma carta de representatividade?
+
+No caso de contratação como autônomo, deverá ser formulado um contrato de trabalho e autorização de uso de imagem e voz em nome do menor, constando a assinatura e representação dos pais, quando for o caso. A comprovação deve ser feita com RPA (assinado pelos pais quando for o caso) e a proponente tem a responsabilidade de efetuar o recolhimento dos tributos incidentes, conforme legislação vigente
+
+Podemos utilizar Recibo de Premiação ou Recibo de Doação para prestar contas de um recurso utilizado no item orçamentário Artista Criação, que tem como justificativa ?desenvolvimentos das linhas temáticas e residência artística?, com a finalidade de premiar os melhores trabalhos de artistas audiovisuais que criaram suas obras para participação de um edital público organizado pelo Museu para a meta de Linha Temática deste plano Anual?
+
+Não são aceitos recibos simples para comprovar prestação de serviços. Se o prestador for pessoa física contratado via CLT para o Plano Anual, deve ser encaminhado folha de pagamento e/ou contracheque assinado; se for prestador autônomo, deve ser encaminhado Recibo de Pagamento Autônomo, com todos os recolhimentos devidos efetuados; e se for pessoa jurídica, Nota Fiscal.
+Recibos simples são aceitos para comprovar despesas que não se configuram como prestação de serviços, tais como "Prêmios, Ajuda de Custo", mas deve estar previsto dessa forma na planilha orçamentária aprovada.
+Como fazer o pagamento da rubrica do CAPTADOR DE RECURSOS do projeto. A nova instrução normativa nao trouxe nenhuma obrigatoriedade de precisar ter CNPJ.... E a pessoa que conseguiu os recursos junto a empresa patrocinadora.. é pessoa física... não tem empresa aberta/CNPJ.
+Ele pode emitir RPA?
+Será aceito o RPA nesse caso. A proponente deve ainda comprovar como essa captação foi realizada, por meio contrato, e-mails, atas de reunião ou que for necessário para comprovar como o valor foi captado.
+o sistema de emissão de notas fiscais da cidade de Pelotas, cidade do proponente, não permite a emissão de notas a si próprio, nem possui opção "tomadores diversos" ou sem tomador, como era, até então, a orientação quanto às prestações de serviços realizadas pelo proponente dentro do projeto.
+
+utilizando a opção disponível "pessoa fisica não identificada" a nota emitida aparece sem as informações de tomador (conforme anexo).
+nossa dúvida é: quanto aos serviços prestados pelo proponente dentro do projeto, como captação de recursos, por exemplo, devemos apresentar recibos, ou emitir NFs a "pessoa física não identificada" conforme nota em anexo.
+informa se que pode sim emitir NFs a "pessoa física não identificada",no caso em que  não permite a emissão de notas a si próprio, nem possui opção "tomadores diversos" ou sem tomador, como era, até então, a orientação quanto às prestações de serviços realizadas pelo proponente dentro do projeto.
+Em relação ao descritivo das notas fiscais, além do numero do Pronac, a rubrica a que se refere e o nome do projeto, precisa ter mais algum dado?
+informa se que além de além do número do Pronac, a rubrica a que se refere e o nome do projeto,é necessário a discriminação dos serviços contratados e/ou dos produtos adquiridos.
+
+
+A conta do pronac teve um rendimento poço utilizar para fazer pagamento de parte das despesas com Assistente de Produção?
+Foram 4 palestrantes, sendo q um fez duas palestra, um deles tem MEI , esse que tem Mei pode emitir uma nota e receber pelos outros?
+informa se que  rendimento só pode ser utilizado para pagamento das despesas do projeto, desde que aprovadas. Então está ok.
+O palestrante que tem MEI pode receber pelos outros se houver um contrato de representação dos outros palestrantes em que esse recebimento seja formalizado.
+
+Ao analisar a IN 01/2023 verificamos a existência da relação de CNAES especificados para cada tipo de segmento.
+Em projetos que se enquadrarem no segmento de EXPOSIÇÃO DE ARTES seria possível utilizar outras CNAES que não se encontrarem na relação da IN?
+É possível utilizar a CNAE 82.30-0-01 – Serviços de organização de feiras, congressos, exposições e festas para emissão de notas fiscais? Frisa-se que este CNAE em específico não consta na relação da IN.
+informa se que:
+A IN 01/2023 não limita a utilização de CNAEs específicos para emissão de notas. Porém, a utilização de CNAEs que não tenham relação alguma com os serviços executados pode ser alvo de impugnação pela análise financeira e a proponente pode ser instada a se justificar.
+Gostaria de esclarecer dúvidas relativas à contratação de pessoal celetista e a prestação de contas dos gastos relacionados.
+1)     O pagamento da Folha de pagamento dos funcionários do mês de março de 2023 foi feito com recursos do proponente, pois a conta execução ainda não estava liberada. Trata-se de despesa realizada entre a aprovação do projeto e a liberação da movimentação, previstas na IN 2023/1 Art. 33  § 1º. Neste caso, qual é o procedimento para reembolso ao proponente e lançamento do gasto na prestação de contas?
+R: O proponente pode fazer o reembolso, desde que a despesa tenha sido feita dentro do período autorizado para captação/execução. O proponente vai comprovar enviando os devidos contracheques e informando que foram objeto de reembolso e o motivo para reembolso. Além disso, o proponente deve apresentar o comprovante bancário de pagamento ao funcionário.
+
+2)      Os encargos trabalhistas relativos à contratação de pessoal CLT, tais como 13º salário, adicional de férias e verbas rescisórias, devem ser calculados e pagos e comprovados na mesma rubrica em que consta o salário do funcionário, inclusive no caso de rescisão? Há alguma vedação para esses gastos com recursos do projeto?
+R: No caso da comprovação no sistema Salic, a proponente deve incluir os respectivos encargos na rubrica referente ao serviço que o funcionário exerceu. Direitos trabalhistas e rescisão só poderão ser pagos proporcionalmente ao período trabalhado pelo funcionário. Valores pagos em discordância serão impugnados.
+
+3)     Os custos com contratação de empresa de Medicina do trabalho – para exames admissionais, demissionais, entre outros obrigatórios para contratação CLT - devem ser pagos com qual rubrica?
+R: Despesas desse tipo devem ser rateadas entre as respectivas funções dos funcionários beneficiados.
+Com relação ao art. 21
+Art. 21. É vedada a realização de despesas:
+II - em benefício de agente público ou agente político, integrante de quadro de pessoal de órgão ou entidade pública da administração direta ou indireta, por quaisquer tipos de serviços, salvo nas hipóteses previstas na Lei de Diretrizes Orçamentárias (LDO) ou em leis específicas;
+Sobre a contratação de servidores públicos de Prefeitura Municipal, há alguma possibilidade que seja exceção quanto a essas vedações? O artigo trata de agentes também da esfera municipal? Uma escritora e servidora municipal, por exemplo, não pode receber pelo serviço de texto, através da Lei Federal de Incentivo à Cultura?
+Ainda o artigo em seu inciso II traz a possibilidade de exceção com base em hipóteses previstas na LDO ou em leis específicas. A LDO do Município, Estado ou União? Leis em que esfera Município, Estado ou União? Concretamente quais hipóteses são essas?
+Ao delimitar que o agente público ou político, seja da administração direta ou indireta, não pode receber, o artigo 21 é muito claro. Então não é possível que a servidora municipal e escritora, como exemplificado, possa receber recursos da Lei Federal de Incentivo Fiscal à Cultura. Isso se dá porque a administração direta inclui servidor municipal.
+
+A exceção será aceita somente se demonstrado que há lei específica ou LDO (independente da esfera) que trate sobre o assunto. Caberá ao proponente comprovar que há tal legislação que ampare a exceção.
+
+Quantos rubricas é possível minha empresa, apresentar nota fiscal? Quantas rubricas um mesmo fornecedor pode exercer no projeto?
+
+Não há limite de rubricas, mas sim de valor. O limite de execução por fornecedor (inclusive se este for o proponente) é de até 50% do valor captado.
+Para cadastrar o pagamento de Guias como DARF, ISS ou outras taxas de prefeitura, como devemos preencher o campo de identificação do contratado?
+Qual CNPJ devemos cadastrar, uma vez que nesse tipo de guia não tem essa informação.
+
+Nesses casos, o preenchimento deve ser do número de cnpj ou cpf do prestador de serviços que executou a atividade relacionada àquele recolhimento. Além disso, esse impostos devem ser inseridos no mesmo item orçamentário referente ao comprovante fiscal correspondente.
+
+
+2- Nota de hospedagem sem alimentação:
+Temos uma nota fiscal emitida pelo hotel, no valor total. Isso é suficiente?
+Outra situação: temos o recibo emitido pela agência de viagens e o vaucher emitido pela agência contendo o nome dos hóspedes. Isso é suficiente?
+
+Comprovantes de hospedagem devem conter o período da hospedagem, o valor da diária e o nome dos hóspedes. Além disso, a função no projeto do beneficiário da hospedagem deve ser devidamente comprovada com ficha técnica ou item de divulgação que comprove sua participação.
+Quanto a comprovação do pagamento de impostos, o lançamento no Salic pode ser no CNPJ do próprio prestador de serviço.
+
+Existe problema quando o emissor da Nota Fiscal de serviço prestado não é o mesmo que recebe o pagamento de serviço / comprovante de depósito? Se sim, como regularizar este ato?
+
+Essa situação é um problema pois impede que seja verificado o nexo de causalidade entre o comprovante fiscal e o beneficiário do pagamento. Sendo assim, há duas maneiras de solucionar: ou a nota fiscal é emitida com a sua descrição indicando o pagamento para uma terceira pessoa, ou é necessário que o emissor da Nota Fiscal emita uma declaração assinada em que autorize um terceiro a receber aquele pagamento.
+
+Como a prefeitura só emite guias por lotes mensais do saldo devedor, o valort apurado foi pago em 21/06 em umaunica guia de R$ 828,99 o que corresponde ao ISS das tres notas incluindo juros e multa da nota de nr. 11 no valor R$ 10.000,00, pois estávamos aguardando parecer do MINC.
+O valor foi pago em 21/06 pela Caixa Federal com caixa da Associação e não com o $ do Projeto.
+Diante disso, solicitamos orientaçao de como proceder a descrição e a inclusão destes itens na Prestação de contas.
+Nesse caso, a proponente deve encaminhar os comprovantes do pagamento das guias, bem como as guias. Deve ainda informar sobre quais notas do projeto a guia se refere. Em caso de reembolso, encaminhar também o comprovante de pagamento ao proponente e informar que se refere a tais guias pagas com recursos próprios.
