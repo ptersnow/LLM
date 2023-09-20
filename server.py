@@ -19,7 +19,7 @@ modelLoaded = torch.load('modelCPU.pth')
 modelLoaded.eval()
 
 
-@app.route('/predict', methods=['POST'])
+@app.route('/generate', methods=['POST'])
 def predict():
     prompt = request.get_json()['prompt']
     context = torch.tensor(encode(prompt), dtype=torch.long, device=device)
