@@ -19,7 +19,7 @@ export default function Home() {
             return
         }
 
-        /*axios.post('http://localhost:5000/generate', {
+        axios.post('http://localhost:5000/generate', {
             prompt: prompt
         }).then((response) => {
             console.log(response.data)
@@ -30,15 +30,8 @@ export default function Home() {
                 'response': response.data
                 }
             ])
-        })*/
+        })
 
-        setPrompt('')
-
-        setChats([...chats, {
-            'prompt': prompt,
-            'response': 'response'
-            }
-        ])
         console.log(chats)
     }
 
